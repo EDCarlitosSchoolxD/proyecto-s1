@@ -1,0 +1,72 @@
+
+img{
+    width: 90px;
+    height: 80px;
+    margin-right: 1em;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    text-justify: auto;
+    font-size: 4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+table{
+    align-items: center;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.s1{
+    text-align: center;
+    text-justify: right;
+    background-color: #56B352;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+
+
+
+.contenedor-tarjetas{
+    display: flex;
+    justify-content: space-evenly;
+}
+.margen-top{
+    margin: 50px 0 50px 0;
+}
+
+.p1{
+
+    background-color: #eceff0;
+
+}
+p{
+
+    font-size: 1.3rem;
+    margin-left: 210px;
+    margin-right: 210px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-size: 2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-size: 2.8rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6{
+    font-size: 1.2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.p3{
+    font-size: 1.1rem;
+}
+
